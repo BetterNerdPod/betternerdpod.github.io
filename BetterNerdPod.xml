@@ -22,7 +22,7 @@ rel="self" type="application/rss+xml" />
 
 <itunes:type>episodic</itunes:type> 
 
-<itunes:image href="https://betternerdpod.github.io/TreehouseHatchLogo.jpg"/> 
+<itunes:image href="https://betternerdpod.github.io/BetterNerdLogo.jpg"/> 
 
 <itunes:category text="Arts"> <itunes:category text="Books" /></itunes:category><itunes:category text="Leisure"> <itunes:category text="Games" /></itunes:category>
 

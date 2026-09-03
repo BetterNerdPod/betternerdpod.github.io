@@ -7,6 +7,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <atom:link href="https://betternerdpod.github.io/BetterNerdPod.xml"
 rel="self" type="application/rss+xml" />
 
+
 <title>A Better Nerd is Possible: Art, Design, Health and Democracy</title> 
 
 <link>https://betternerdpod.github.io/</link> 
@@ -38,10 +39,9 @@ rel="self" type="application/rss+xml" />
 <copyright>A Better Nerd is Possible © 2026 by Alice Jaggers and Avery Barrett is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/</copyright>
 
 
-
 <item>
 <itunes:episodeType>full</itunes:episodeType>
-      <title>Representation and Repurposing</title>
+      <itunes:title>Representation and Repurposing</itunes:title>
 	  
 <itunes:episode>
 1
@@ -49,20 +49,20 @@ rel="self" type="application/rss+xml" />
 
 <description>
 <![CDATA[
-<p>Explore your biases. Find your power.</p>
+<p>Examine your biases. Find your power.</p>
 
 <p>In this episode, Avery and Alice begin their journey to make better nerds who can make the world a better place. They discuss recognizing the power to make a difference that often goes unnoticed or unrealized.</p> 
 
 
-  <p><a href="https://bookshop.org/p/books/making-nonfiction-comics-a-guide-for-graphic-narrative-shay-sarah-mirk/38975f4847b47dbe?ean=9781419769276&bkshp-astro=t">Making Nonfiction Comics: A Guide for Graphic Narrative, by Eleri Harris and Shay Mirk</a></p
+  <p><a href="https://bookshop.org/p/books/making-nonfiction-comics-a-guide-for-graphic-narrative-shay-sarah-mirk/38975f4847b47dbe?ean=9781419769276&aid=126995&listref=super-secret-book-club-picks">Making Nonfiction Comics: A Guide for Graphic Narrative, by Eleri Harris and Shay Mirk</a></p
 
 
 
-<p><a href="https://bookshop.org/p/books/strike-labor-unions-and-resistance-in-the-roman-empire-sarah-e-bond/982b2a7e601cae9f?ean=9780300288599&bkshp-astro=t">Strike: Labor, Unions and Resistance in the Roman Empire, by Sarah E. Bond</a></p>
+<p><a href="https://bookshop.org/p/books/strike-labor-unions-and-resistance-in-the-roman-empire-sarah-e-bond/982b2a7e601cae9f?ean=9780300288599&aid=126995&listref=super-secret-book-club-picks">Strike: Labor, Unions and Resistance in the Roman Empire, by Sarah E. Bond</a></p>
 
-<br><p>Also mentioned:</p>
+<p>Also mentioned:</p>
 
-<p><a href = "https://bookshop.org/p/books/sex-from-scratch-making-your-own-relationship-rules-sarah-mirk/339e08062144a7f0?ean=9781648410451&bkshp-astro=t">Sex from Scratch: Making Your Own Relationship Rules, by Shay Mirk</a></p>
+<p><a href = "https://bookshop.org/p/books/sex-from-scratch-making-your-own-relationship-rules-sarah-mirk/339e08062144a7f0?ean=9781648410451&aid=126995&bkshp-astro=t">Sex from Scratch: Making Your Own Relationship Rules, by Shay Mirk</a></p>
 
 
 <p>To learn more about gladiators and Roman history, check out this episode of the podcast <a href="https://halfarsedhistory.net/2024/11/24/episode-335-the-history-of-the-gladiators/">Half-Arsed History, by Riley Knight</a>.</p>
@@ -71,6 +71,8 @@ rel="self" type="application/rss+xml" />
 <p>Want to join the club? Read a book! Then email us (coded message or not) at betternerdpod@proton.me</p>
 
 <p>You can find us on <a href="https://www.instagram.com/betternerdpod">Instagram</a> and <a href="https://mastodon.social/@betternerdpod">Mastodon</a>. There's nothing posted either place yet, but you can follow us and maybe something interesting will happen. If you would like to support more interesting things coming from your favorite possible nerds, you can support us now on <a href="https://www.patreon.com/cw/BetterNerdPod">Patreon</a>.</p>
+
+<p>Bookshop affiliate links earn us a commission on your purchase.</p>
 
 
 ]]>
@@ -80,20 +82,20 @@ rel="self" type="application/rss+xml" />
 
 <itunes:summary>
 <![CDATA[
-<p>Explore your biases. Find your power.</p>
+<p>Examine your biases. Find your power.</p>
 
 <p>In this episode, Avery and Alice begin their journey to make better nerds who can make the world a better place. They discuss recognizing the power to make a difference that often goes unnoticed or unrealized.</p> 
 
 
-  <p><a href="https://bookshop.org/p/books/making-nonfiction-comics-a-guide-for-graphic-narrative-shay-sarah-mirk/38975f4847b47dbe?ean=9781419769276&bkshp-astro=t">Making Nonfiction Comics: A Guide for Graphic Narrative, by Eleri Harris and Shay Mirk</a></p
+  <p><a href="https://bookshop.org/p/books/making-nonfiction-comics-a-guide-for-graphic-narrative-shay-sarah-mirk/38975f4847b47dbe?ean=9781419769276&aid=126995&listref=super-secret-book-club-picks">Making Nonfiction Comics: A Guide for Graphic Narrative, by Eleri Harris and Shay Mirk</a></p
 
 
 
-<p><a href="https://bookshop.org/p/books/strike-labor-unions-and-resistance-in-the-roman-empire-sarah-e-bond/982b2a7e601cae9f?ean=9780300288599&bkshp-astro=t">Strike: Labor, Unions and Resistance in the Roman Empire, by Sarah E. Bond</a></p>
+<p><a href="https://bookshop.org/p/books/strike-labor-unions-and-resistance-in-the-roman-empire-sarah-e-bond/982b2a7e601cae9f?ean=9780300288599&aid=126995&listref=super-secret-book-club-picks">Strike: Labor, Unions and Resistance in the Roman Empire, by Sarah E. Bond</a></p>
 
-<br><p>Also mentioned:</p>
+<p>Also mentioned:</p>
 
-<p><a href = "https://bookshop.org/p/books/sex-from-scratch-making-your-own-relationship-rules-sarah-mirk/339e08062144a7f0?ean=9781648410451&bkshp-astro=t">Sex from Scratch: Making Your Own Relationship Rules, by Shay Mirk</a></p>
+<p><a href = "https://bookshop.org/p/books/sex-from-scratch-making-your-own-relationship-rules-sarah-mirk/339e08062144a7f0?ean=9781648410451&aid=126995&bkshp-astro=t">Sex from Scratch: Making Your Own Relationship Rules, by Shay Mirk</a></p>
 
 
 <p>To learn more about gladiators and Roman history, check out this episode of the podcast <a href="https://halfarsedhistory.net/2024/11/24/episode-335-the-history-of-the-gladiators/">Half-Arsed History, by Riley Knight</a>.</p>
@@ -103,6 +105,7 @@ rel="self" type="application/rss+xml" />
 
 <p>You can find us on <a href="https://www.instagram.com/betternerdpod">Instagram</a> and <a href="https://mastodon.social/@betternerdpod">Mastodon</a>. There's nothing posted either place yet, but you can follow us and maybe something interesting will happen. If you would like to support more interesting things coming from your favorite possible nerds, you can support us now on <a href="https://www.patreon.com/cw/BetterNerdPod">Patreon</a>.</p>
 
+<p>Bookshop affiliate links earn us a commission on your purchase.</p>
 
 ]]>
 
@@ -123,6 +126,7 @@ rel="self" type="application/rss+xml" />
 
 
 </item>
+
 
 
 <item>
@@ -146,6 +150,7 @@ Alice and Avery try to explain why you're suddenly in their clubhouse and there'
         url="https://seriousmischief.net/wp-content/uploads/2026/08/BetterNerdTrailer.mp3"
       />
          <guid>YScZ2uCWjCtUb7wfg57yf!vdjpeWEgUx9%mqnc5N</guid>
+		 
 <pubDate>Thu, 30 Jul 2026 21:00:00 PDT</pubDate>
          <itunes:explicit>false</itunes:explicit>
 

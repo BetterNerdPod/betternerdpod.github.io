@@ -41,7 +41,7 @@ rel="self" type="application/rss+xml" />
 
 <item>
 <itunes:episodeType>full</itunes:episodeType>
-      <itunes:title>Representation and Repurposing</itunes:title>
+      <title>Representation and Repurposing</title>
 	  
 <itunes:episode>
 1

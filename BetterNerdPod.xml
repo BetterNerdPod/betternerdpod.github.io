@@ -37,7 +37,75 @@ rel="self" type="application/rss+xml" />
 </itunes:owner>
 
 <copyright>A Better Nerd is Possible © 2026 by Alice Jaggers and Avery Barrett is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/</copyright>
+<item>
+<itunes:episodeType>full</itunes:episodeType>
+      <title> Dark Larp </title>
+<itunes:episode>
+2
+</itunes:episode>
+	  
+<description>
+<![CDATA[
+<p>Question your fears. Expand your world. And look below if you want to discover our SECRET BOOKS this month!</p>
 
+
+
+<p>Want to join the club? Read a book! Then email us (coded message or not) at betternerdpod@proton.me</p>
+
+<p>You can find us on <a href="https://www.instagram.com/betternerdpod">Instagram</a> and <a href="https://mastodon.social/@betternerdpod">Mastodon</a>. If you would like to support more interesting things coming from your favorite possible nerds, you can support us now on <a href="https://www.patreon.com/cw/BetterNerdPod">Patreon</a>.</p>
+
+<p>Bookshop affiliate links earn us a commission on your purchase.</p>
+
+<p>SECRET BOOKS</p>:
+
+<p><a href="https://bookshop.org/p/books/nightfaring-in-search-of-the-disappearing-darkness-megan-eaves-egenes/5978221c68baf133?ean=9780306835339&aid=126995">Nightfaring: In Search of the Disappearing Darkness</a>, by Megan Eaves-Egenes</p>
+
+<p><a href="https://trepo.tuni.fi/handle/10024/95123">Nordic Larp</a>, ed. Jaako Stenros, Markus Montola</p>
+
+<p>Also mentioned</p>
+<p><a href="https://bookshop.org/p/books/if-you-want-to-win-you-ve-got-to-fight-a-guide-to-effective-transportation-advocacy-carter-lavin/37d7a884710d8277?ean=9781642833744&aid=126995">If You Want to Win, You've Got to Fight: A Guide to Effective Transportation Advocacy</a>, by Carter Lavin</p>
+
+
+]]>
+</description>
+
+<itunes:summary>
+
+<![CDATA[
+<p>Question your fears. Expand your world. And look below if you want to discover our SECRET BOOKS this month!</p>
+
+<p>Want to join the club? Read a book! Then email us (coded message or not) at betternerdpod@proton.me</p>
+
+<p>You can find us on <a href="https://www.instagram.com/betternerdpod">Instagram</a> and <a href="https://mastodon.social/@betternerdpod">Mastodon</a>. If you would like to support more interesting things coming from your favorite possible nerds, you can support us now on <a href="https://www.patreon.com/cw/BetterNerdPod">Patreon</a>.</p>
+
+<p>Bookshop affiliate links earn us a commission on your purchase.</p>
+
+<p>SECRET BOOKS</p>:
+
+<p><a href="https://bookshop.org/p/books/nightfaring-in-search-of-the-disappearing-darkness-megan-eaves-egenes/5978221c68baf133?ean=9780306835339&aid=126995">Nightfaring: In Search of the Disappearing Darkness</a>, by Megan Eaves-Egenes</p>
+
+<p><a href="https://trepo.tuni.fi/handle/10024/95123">Nordic Larp</a>, ed. Jaako Stenros, Markus Montola</p>
+
+<p>Also mentioned</p>
+<p><a href="https://bookshop.org/p/books/if-you-want-to-win-you-ve-got-to-fight-a-guide-to-effective-transportation-advocacy-carter-lavin/37d7a884710d8277?ean=9781642833744&aid=126995">If You Want to Win, You've Got to Fight: A Guide to Effective Transportation Advocacy</a>, by Carter Lavin</p>
+
+
+]]>
+
+</itunes:summary>
+      <enclosure 
+        length="74856906" 
+        type="audio/mpeg" 
+        url="https://seriousmischief.net/wp-content/uploads/2026/09/BetterNerdPodEpisode2.mp3"
+      />
+         <guid>7ax22YU$YgWF$2STDwTqKG&%hn9N%M96yQ63&@mq</guid>
+<pubDate> Tue, 8 Sep 2026 07:00:00 PDT</pubDate>
+         <itunes:explicit>false</itunes:explicit>
+
+<itunes:duration>4679</itunes:duration>
+
+
+</item>
 
 <item>
 <itunes:episodeType>full</itunes:episodeType>

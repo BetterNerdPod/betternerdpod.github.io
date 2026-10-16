@@ -37,6 +37,74 @@ rel="self" type="application/rss+xml" />
 </itunes:owner>
 
 <copyright>A Better Nerd is Possible © 2026 by Alice Jaggers and Avery Barrett is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/</copyright>
+
+	
+<item>
+<itunes:episodeType>full</itunes:episodeType>
+      <title> Roles and Rules </title>
+<itunes:episode>
+3
+</itunes:episode>
+	  
+
+<description>
+
+
+<![CDATA[
+
+
+<p>Ponder your personal political path. Consider competition, collaboration, and constraints. And look below if you want to discover our SECRET BOOKS this month!</p> <p>Want to join the club? Read a book! Then email us (coded message or not) at betternerdpod@proton.me</p> <p>You can find us on <a href="https://www.instagram.com/betternerdpod">Instagram</a> and <a href="https://mastodon.social/@betternerdpod">Mastodon</a>. If you would like to support more interesting things coming from your favorite possible nerds, you can support us now on <a href="https://www.patreon.com/cw/BetterNerdPod">Patreon</a>.</p> <p>Bookshop.org affiliate links earn us a commission on your purchase. You can find our affiliate shop here:<a href="https://bookshop.org/shop/betternerdpod">Bookshop.org/shop/betternerdpod</a>. There you can find a list of all the books we have talked about so far and more lists to be added soon!</p>
+<p>Our SECRET BOOKS this month:</p>
+
+<a href="https://bookshop.org/a/126995/9781558969421">Social Change Now: A Guide for Reflection and Connection</a> by Deepa Iyer
+<a href="https://bookshop.org/a/126995/9780262551144">Making Democracy Fun: How Game Design Can Empower Citizens and Transform Politics</a> by Josh Lerner 
+Also mentioned:
+<a href="https://bookshop.org/a/126995/9781954118331">Imaginable: How to Create a Hopeful Future</a> by Jane McGonigal 
+  
+  
+  
+]]>
+</description>
+
+<itunes:summary>
+<![CDATA[
+
+
+<p>Ponder your personal political path. Consider competition, collaboration, and constraints. And look below if you want to discover our SECRET BOOKS this month!</p> <p>Want to join the club? Read a book! Then email us (coded message or not) at betternerdpod@proton.me</p> <p>You can find us on <a href="https://www.instagram.com/betternerdpod">Instagram</a> and <a href="https://mastodon.social/@betternerdpod">Mastodon</a>. If you would like to support more interesting things coming from your favorite possible nerds, you can support us now on <a href="https://www.patreon.com/cw/BetterNerdPod">Patreon</a>.</p> <p>Bookshop.org affiliate links earn us a commission on your purchase. You can find our affiliate shop here:<a href="https://bookshop.org/shop/betternerdpod">Bookshop.org/shop/betternerdpod</a>. There you can find a list of all the books we have talked about so far and more lists to be added soon!</p>
+<p>Our SECRET BOOKS this month:</p>
+
+<a href="https://bookshop.org/a/126995/9781558969421">Social Change Now: A Guide for Reflection and Connection</a> by Deepa Iyer
+<a href="https://bookshop.org/a/126995/9780262551144">Making Democracy Fun: How Game Design Can Empower Citizens and Transform Politics</a> by Josh Lerner 
+Also mentioned:
+<a href="https://bookshop.org/a/126995/9781954118331">Imaginable: How to Create a Hopeful Future</a> by Jane McGonigal 
+  
+  
+  
+]]>
+
+</itunes:summary>
+      <enclosure 
+        length="69665017" 
+        type="audio/mpeg" 
+        url="https://seriousmischief.net/wp-content/uploads/2026/10/BetterNerdPodEpisode3.mp3"
+      />
+         <guid>
+		DrnJYP6MSzh6uXdaK55gm8E4ABbDzYggAxaqfZw6
+		 
+		 </guid>
+<pubDate>Fri, 16 Oct 2026 12:30:00 PDT</pubDate>
+<itunes:explicit>false</itunes:explicit>
+
+<itunes:duration>
+
+4354
+
+</itunes:duration>
+
+
+</item>
+	
+	
 <item>
 <itunes:episodeType>full</itunes:episodeType>
       <title> Dark Larp </title>

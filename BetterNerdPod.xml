@@ -38,6 +38,43 @@ rel="self" type="application/rss+xml" />
 
 <copyright>A Better Nerd is Possible © 2026 by Alice Jaggers and Avery Barrett is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/</copyright>
 
+<item>
+<itunes:episodeType>full</itunes:episodeType>
+      <title> Interlude: What is a Nerd? </title>
+<itunes:episode>
+
+</itunes:episode>
+	  
+
+<description>
+
+Avery has an important question.
+</description>
+
+<itunes:summary>
+Avery has an important question.
+
+</itunes:summary>
+      <enclosure 
+        length="14417920" 
+        type="audio/mpeg" 
+        url="https://seriousmischief.net/wp-content/uploads/2026/10/BetterNerdPodEpisode3_5.mp3"
+      />
+         <guid>
+		Vdsux8Ea5WrwqDtre5VtZHMxVV4gQYTMyRckmeps
+		 
+		 </guid>
+<pubDate>Tue, 27 Oct 2026 12:00:00 PST</pubDate>
+<itunes:explicit>false</itunes:explicit>
+
+<itunes:duration>
+
+901
+
+</itunes:duration>
+
+
+</item>	
 	
 <item>
 <itunes:episodeType>full</itunes:episodeType>

@@ -37,7 +37,64 @@ rel="self" type="application/rss+xml" />
 </itunes:owner>
 
 <copyright>A Better Nerd is Possible © 2026 by Alice Jaggers and Avery Barrett is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/</copyright>
+<item>
+<itunes:episodeType>full</itunes:episodeType>
+      <title> Feelings and Explanations </title>
+<itunes:episode>
+4
+</itunes:episode>
+	  
+<description>
+<![CDATA[
+<p>Embrace your needs. Seek outside perspectives. And look below if you want to discover our SECRET BOOKS this month!</p> <p>Want to join the club? Read a book! Then email us (coded message or not) at betternerdpod@proton.me</p> <p>You can find us on <a href="https://www.instagram.com/betternerdpod">Instagram</a> and <a href="https://mastodon.social/@betternerdpod">Mastodon</a>. If you would like to support more interesting things coming from your favorite possible nerds, you can support us now on <a href="https://www.patreon.com/cw/BetterNerdPod">Patreon</a>.</p> <p>Bookshop.org affiliate links earn us a commission on your purchase.</p>
+<p>Our SECRET BOOKS this month:</p>
+<a href="https://bookshop.org/p/books/trust-the-plan-the-rise-of-qanon-and-the-conspiracy-that-unhinged-america-will-sommer/5d54fa216809499b?ean=9780063114494&aid=126995">Trust the Plan: The Rise of QAnon and the Conspiracy That Unhinged America</a>, by Will Sommer
+<a href="https://bookshop.org/p/books/here-i-am-i-am-me-an-illustrated-guide-to-mental-health-cara-bean/c1c4df87cf846aa8?ean=9781523508051&aid=126995">Here I Am, I Am Me: An Illustrated Guide to Mental Health</a>, by Cara Bean 
 
+Also Mentioned:
+<a href="https://bookshop.org/p/books/playframes-how-do-we-know-we-are-playing-celia-pearce/5d00375e6a6daadf&aid=126995">Playframes:How Do We Know We Are Playing?</a> by Celia Pearce 
+
+
+"<a href="https://medium.com/curiouserinstitute/a-game-designers-analysis-of-qanon-580972548be5">A Game Designer's Analysis of QAnon</a>," by Reed Berkowitz 
+"<a href="https://journals.sagepub.com/doi/10.1177/14614448221090201">Constructing alternative facts: Populist expertise and the QAnon conspiracy</a>," by Alice E Marwick and William Clyde Partin
+
+
+]]>
+</description>
+
+<itunes:summary>
+
+<![CDATA[
+<p>Embrace your needs. Seek outside perspectives. And look below if you want to discover our SECRET BOOKS this month!</p> <p>Want to join the club? Read a book! Then email us (coded message or not) at betternerdpod@proton.me</p> <p>You can find us on <a href="https://www.instagram.com/betternerdpod">Instagram</a> and <a href="https://mastodon.social/@betternerdpod">Mastodon</a>. If you would like to support more interesting things coming from your favorite possible nerds, you can support us now on <a href="https://www.patreon.com/cw/BetterNerdPod">Patreon</a>.</p> <p>Bookshop.org affiliate links earn us a commission on your purchase.</p>
+<p>Our SECRET BOOKS this month:</p>
+<a href="https://bookshop.org/p/books/trust-the-plan-the-rise-of-qanon-and-the-conspiracy-that-unhinged-america-will-sommer/5d54fa216809499b?ean=9780063114494&aid=126995">Trust the Plan: The Rise of QAnon and the Conspiracy That Unhinged America</a>, by Will Sommer
+<a href="https://bookshop.org/p/books/here-i-am-i-am-me-an-illustrated-guide-to-mental-health-cara-bean/c1c4df87cf846aa8?ean=9781523508051&aid=126995">Here I Am, I Am Me: An Illustrated Guide to Mental Health</a>, by Cara Bean 
+
+Also Mentioned:
+<a href="https://bookshop.org/p/books/playframes-how-do-we-know-we-are-playing-celia-pearce/5d00375e6a6daadf&aid=126995">Playframes:How Do We Know We Are Playing?</a> by Celia Pearce 
+
+
+"<a href="https://medium.com/curiouserinstitute/a-game-designers-analysis-of-qanon-580972548be5">A Game Designer's Analysis of QAnon</a>," by Reed Berkowitz 
+"<a href="https://journals.sagepub.com/doi/10.1177/14614448221090201">Constructing alternative facts: Populist expertise and the QAnon conspiracy</a>," by Alice E Marwick and William Clyde Partin
+
+
+]]>
+
+</itunes:summary>
+      <enclosure 
+        length="70001892" 
+        type="audio/mpeg" 
+        url="https://seriousmischief.net/wp-content/uploads/2026/11/BetterNerdPodEpisode4.mp3"
+      />
+         <guid>9trdfWz1vdfqMDVn1abzf5BXJTyjQuEzd2fq4k27/guid>
+<pubDate> Tue, 24 Nov 2026 12:00:00 PST</pubDate>
+         <itunes:explicit>false</itunes:explicit>
+
+<itunes:duration>4375</itunes:duration>
+
+
+</item>
+	
 <item>
 <itunes:episodeType>full</itunes:episodeType>
       <title> Interlude: What is a Nerd? </title>
